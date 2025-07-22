@@ -25,5 +25,3 @@ Check [`documentation/main.typ`](https://github.com/uwni/uwnibook-color/blob/mai
 ## Contribution
 Any PR, Issues are welcome.
 
-## Acknowledge
-Some designs deeply affected by [Paged Design](https://github.com/electricbookworks/paged-design#readme)
