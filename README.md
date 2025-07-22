@@ -1,11 +1,11 @@
-# Uwnibook Color
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# Monokro
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uwni/monokro)
 
-A colorful book template with English, Chinese, Japanese support.
+A monochromic book template with English, Chinese, Japanese support.
 
 ## Usage
 ```sh
-typst init @preview/uwnibook-color:0.1.0
+typst init @preview/monokro:0.1.0
 ```
 > [!WARNING]
 > Under active development. use it on your own risk.
