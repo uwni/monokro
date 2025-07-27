@@ -2,7 +2,7 @@
 /// this file is used to import and config packages
 ///
 
-#import "@preview/uwnibook-color:0.1.0": *
+#import "@local/monokro:0.1.0": *
 #import "header_imgs/imgs.typ": imgs
 
 #let (
@@ -18,9 +18,6 @@
   proof,
   components,
   make-index,
-  note,
-  notefigure,
-  wideblock,
   subheading,
 ) = config-uwni(
   /// ["en"|"zh"|"lzh"]

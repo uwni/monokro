@@ -1,4 +1,5 @@
 #let _lang = "en"
+#let _paper = "iso-b5"
 #let _appendix_numbering = "A.1"
 #let _title_font = "Barlow"
 #let _sans_font = "Barlow"
@@ -11,21 +12,21 @@
 #let _symbol_font = "Zapf Dingbats"
 #let _draft = "draft"
 #let _date_format = "[month repr:long] [year]"
-#let _main_size = 11pt
+#let _main_size = 10pt
 #let _lineskip = 0.75em
 #let _envskip = 1.2em
 #let _parskip = _lineskip //1.2em
 #let _eq_spacing = 1em
 #let _figure_spacing = 1.5em
 #let _title_size = 20pt
-#let _heading1_size = 24pt
+#let _heading1_size = 20pt
 #let _heading2_size = 1.35 * _main_size
-#let _heading3_size = 1.15 * _main_size
+#let _heading3_size = 1.05 * _main_size
 #let _page_top_margin = 20mm + _main_size
-#let _page_bottom_margin = 2cm
-#let _page_num_size = 1.2em
+#let _page_bottom_margin = 20mm
+#let _page_num_size = 1.2 * _main_size
 #let _page_margin = 15mm
-#let _page_margin_sep = 8mm
+#let _page_margin_sep = 20mm
 #let _page_margin_note_width = 40mm
 #let _chap_top_margin = 100mm
 // for the "book" weights of NCM font
